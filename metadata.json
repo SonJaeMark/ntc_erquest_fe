@@ -1,0 +1,6 @@
+{
+  "name": "NTC eRequest System",
+  "description": "An online document request system for National Teachers College students, allowing them to request registrar documents and track status.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
